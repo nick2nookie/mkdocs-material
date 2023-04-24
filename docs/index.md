@@ -1,6 +1,7 @@
 ---
 template: home.html
-title: Material for MkDocs
+title: nick2nookie website
 ---
+# Hello World,
 
-Welcome to Material for MkDocs.
+Selamat datang di nick2nookie codingverse. diwebsite ini kita akan bersama-swama untuk belajar.  
